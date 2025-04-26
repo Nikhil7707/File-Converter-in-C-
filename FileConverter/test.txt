@@ -1,0 +1,7 @@
+Hello World
+This is a test file
+For the FileConverter application
+It will convert spaces to commas
+When converting to CSV format
+Multiple words on each line
+Will become separate columns
